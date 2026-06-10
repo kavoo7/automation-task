@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Finish drafting project proposal",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "API Sync: Sunt Aut Facere Repellat Provident Occaecati Excepturi Optio Reprehenderit",
+        "completed": false
+    }
+]
